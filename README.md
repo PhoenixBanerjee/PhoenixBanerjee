@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PhoenixBanerjee
-- 👀 I’m interested in Machine Learning, Deep Learning, Statistics, Project Management, Photography
-- 🌱 I’m currently learning Clustering algorithm
-- 💞️ I’m looking to collaborate on ...not now
+- 👀 I’m interested in Machine Learning, Deep Learning, Statistics, Project Management
+- 🌱 I’m currently working as a senior engineer in Samsung Engineering
+- 💞️ On free time, I like to get busy in photography, painting, weight training, world cinemas, gaming, football, cooking
 - 📫 How to reach me ...kaushik27101986@gmail.com
 
 <!---
