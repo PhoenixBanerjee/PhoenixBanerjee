@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PhoenixBanerjee
+- 👋 Hi, I’m Kaushik Banerjee
 - 👀 I’m interested in Machine Learning, Deep Learning, Statistics, Project Management
 - 🌱 I’m currently working as a senior engineer in Samsung Engineering
 - 💞️ On free time, I like to get busy in photography, painting, weight training, world cinemas, gaming, football, cooking
